@@ -1,0 +1,28 @@
+footer {
+  background-color: green;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 30px;
+}
+.footer-p {
+  text-align: center;
+  font-family: Cambria;
+  font-size: 20px;
+  color: white;
+}
+.icon-container {
+  text-align: center;
+}
+.icons {
+  color: white;
+  font-size: 25px;
+  margin-right: 30px;
+}
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 200px;
+}
